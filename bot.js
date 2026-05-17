@@ -1,6 +1,6 @@
 const { Telegraf, Markup } = require('telegraf')
-console.log('Token:', process.env.TELEGRAM_BOT_TOKEN ? 'mavjud' : 'YOQ!')
-const bot = new Telegraf(process.env.TELEGRAM_BOT_TOKEN)
+console.log('Token:', process.env.8972903998:AAFOT-e2uxe0w5gbhVPveBSPcAgnsZX-x5U ? 'mavjud' : 'YOQ!')
+const bot = new Telegraf(process.env.8972903998:AAFOT-e2uxe0w5gbhVPveBSPcAgnsZX-x5U
 
 const games = {}
 
